@@ -1,0 +1,386 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* UtahFMAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 874}}";
+			sepNavSelRange = "{689, 0}";
+			sepNavVisRange = "{159, 997}";
+		};
+	};
+	1D3623250D0F684500981E51 /* UtahFMAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 3059}}";
+			sepNavSelRange = "{2298, 35}";
+			sepNavVisRange = "{2111, 756}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* UtahFM */ = {
+		activeExec = 0;
+		executables = (
+			83F081830FC0C5F90046EEB2 /* UtahFM */,
+		);
+	};
+	28216C950DB411BC00E5133A /* FirstViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 646}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{0, 424}";
+		};
+	};
+	28216C960DB411BC00E5133A /* FirstViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 1539}}";
+			sepNavSelRange = "{831, 0}";
+			sepNavVisRange = "{1131, 836}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 83F081830FC0C5F90046EEB2 /* UtahFM */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UtahFM */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* UtahFM */,
+		);
+		breakpoints = (
+			832C40760FC128F900B47467 /* MainWindowController.m:16 */,
+			83BF204F0FC66CFC00C4C8BF /* RSSTableViewController.m:110 */,
+		);
+		codeSenseManager = 83F081900FC0C6170046EEB2 /* Code sense */;
+		executables = (
+			83F081830FC0C5F90046EEB2 /* UtahFM */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					990,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					757,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302762841;
+			PBXWorkspaceStateSaveDate = 302762841;
+		};
+		perUserProjectItems = {
+			8316C883120BC8F4005B75B4 /* PBXTextBookmark */ = 8316C883120BC8F4005B75B4 /* PBXTextBookmark */;
+			8316C884120BC8F4005B75B4 /* PBXTextBookmark */ = 8316C884120BC8F4005B75B4 /* PBXTextBookmark */;
+			8316C885120BC8F4005B75B4 /* PBXTextBookmark */ = 8316C885120BC8F4005B75B4 /* PBXTextBookmark */;
+			8316C887120BC8F4005B75B4 /* PlistBookmark */ = 8316C887120BC8F4005B75B4 /* PlistBookmark */;
+			833BBDA4120BCD1C0008DB6A /* PlistBookmark */ = 833BBDA4120BCD1C0008DB6A /* PlistBookmark */;
+			834D16F70FD1B4370076E425 /* PBXTextBookmark */ = 834D16F70FD1B4370076E425 /* PBXTextBookmark */;
+			838E4929120144D300623068 /* PBXBookmark */ = 838E4929120144D300623068 /* PBXBookmark */;
+			838E492A120144D300623068 /* PBXBookmark */ = 838E492A120144D300623068 /* PBXBookmark */;
+			83C8D4250FCB87110068131D /* PBXTextBookmark */ = 83C8D4250FCB87110068131D /* PBXTextBookmark */;
+			83E473200FEEA0F500AC9C93 /* PlistBookmark */ = 83E473200FEEA0F500AC9C93 /* PlistBookmark */;
+			83F9340A11FFF4A4002E82AB /* PBXTextBookmark */ = 83F9340A11FFF4A4002E82AB /* PBXTextBookmark */;
+			83F9340B11FFF4A4002E82AB /* PBXTextBookmark */ = 83F9340B11FFF4A4002E82AB /* PBXTextBookmark */;
+			83F9341D11FFF5D0002E82AB /* PBXTextBookmark */ = 83F9341D11FFF5D0002E82AB /* PBXTextBookmark */;
+			83F9341E11FFF5D0002E82AB /* PBXTextBookmark */ = 83F9341E11FFF5D0002E82AB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 83F0818F0FC0C6170046EEB2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {975, 454}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 346}";
+		};
+	};
+	8316C883120BC8F4005B75B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 835324080FC1CF8D00A7575A /* AudioStreamer.h */;
+		name = "AudioStreamer.h: 38";
+		rLen = 0;
+		rLoc = 1296;
+		rType = 0;
+		vrLen = 1295;
+		vrLoc = 699;
+	};
+	8316C884120BC8F4005B75B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 37";
+		rLen = 0;
+		rLoc = 831;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 1131;
+	};
+	8316C885120BC8F4005B75B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UtahFMAppDelegate.m */;
+		name = "UtahFMAppDelegate.m: 106";
+		rLen = 35;
+		rLoc = 2298;
+		rType = 0;
+		vrLen = 805;
+		vrLoc = 2111;
+	};
+	8316C887120BC8F4005B75B4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* UtahFM-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/chris/Documents/Development/iPhone/iPhone Projects/UtahFM/UtahFM-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	832C40710FC127AA00B47467 /* MainWindowController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MainWindowController.m;
+		path = "/Users/chris/Documents/Development/iPhone Projects/UtahFM/Classes/MainWindowController.m";
+		sourceTree = "<absolute>";
+	};
+	832C40760FC128F900B47467 /* MainWindowController.m:16 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 832C40710FC127AA00B47467 /* MainWindowController.m */;
+		functionName = "-updateOnOff:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 16;
+		modificationTime = 302762227.7449321;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	833BBDA4120BCD1C0008DB6A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* UtahFM-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIBackgroundModes,
+		);
+		name = "/Users/chris/Documents/Development/iPhone/iPhone Projects/UtahFM/UtahFM-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	834D16F70FD1B4370076E425 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 346;
+		vrLoc = 0;
+	};
+	835324080FC1CF8D00A7575A /* AudioStreamer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 3477}}";
+			sepNavSelRange = "{1296, 0}";
+			sepNavVisRange = "{699, 1295}";
+		};
+	};
+	835324090FC1CF8D00A7575A /* AudioStreamer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {975, 14972}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 594}";
+		};
+	};
+	838E4929120144D300623068 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 835324040FC1CF8200A7575A /* Default.png */;
+	};
+	838E492A120144D300623068 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 838E4915120144AD00623068 /* icon.png */;
+	};
+	83BF1FC70FC6675700C4C8BF /* RSSTableViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = RSSTableViewController.m;
+		path = "/Users/chris/Documents/Development/iPhone/iPhone Projects/UtahFM/Classes/RSSTableViewController.m";
+		sourceTree = "<absolute>";
+	};
+	83BF204F0FC66CFC00C4C8BF /* RSSTableViewController.m:110 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 83BF1FC70FC6675700C4C8BF /* RSSTableViewController.m */;
+		functionName = "-viewDidAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 110;
+		modificationTime = 302762227.744966;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	83C8D4250FCB87110068131D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 835324090FC1CF8D00A7575A /* AudioStreamer.m */;
+		name = "AudioStreamer.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 594;
+		vrLoc = 0;
+	};
+	83D36E750FC28AF800BFA2BF /* SecondViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 646}}";
+			sepNavSelRange = "{250, 97}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	83D36E760FC28AF800BFA2BF /* SecondViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1308, 1577}}";
+			sepNavSelRange = "{210, 169}";
+			sepNavVisRange = "{3, 883}";
+		};
+	};
+	83E473200FEEA0F500AC9C93 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 83C9A5220FECBEA100A82181 /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"get-task-allow",
+		);
+		name = "/Users/chris/Documents/Development/iPhone Projects/UtahFM/Entitlements.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	83F081830FC0C5F90046EEB2 /* UtahFM */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UtahFM;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	83F0818F0FC0C6170046EEB2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	83F081900FC0C6170046EEB2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	83F9340A11FFF4A4002E82AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83D36E750FC28AF800BFA2BF /* SecondViewController.h */;
+		name = "SecondViewController.h: 15";
+		rLen = 97;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	83F9340B11FFF4A4002E82AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83D36E760FC28AF800BFA2BF /* SecondViewController.m */;
+		name = "SecondViewController.m: 14";
+		rLen = 169;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 883;
+		vrLoc = 3;
+	};
+	83F9341D11FFF5D0002E82AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* UtahFMAppDelegate.h */;
+		name = "UtahFMAppDelegate.h: 32";
+		rLen = 0;
+		rLoc = 689;
+		rType = 0;
+		vrLen = 997;
+		vrLoc = 159;
+	};
+	83F9341E11FFF5D0002E82AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C950DB411BC00E5133A /* FirstViewController.h */;
+		name = "FirstViewController.h: 17";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 0;
+	};
+}
